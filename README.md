@@ -16,8 +16,7 @@ My development skills include implementing user interfaces that adhere to W3C st
 
 ## 📊 GitHub Stats
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula&show_icons=true&theme=radical&include_all_commits=true)
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Total Contributions](https://github.com/chaitanyajerripothula/chaitanyajerripothula/workflows/Count%20Contributions/badge.svg)
 
