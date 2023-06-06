@@ -3,7 +3,7 @@
 ## 📊 GitHub Stats
 
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula&show_icons=true&theme=radical&include_all_commits=true)
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt)](https://github.com/cjerripothula-wwt/github-readme-stats)
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt&show_icons=true&theme=radical&include_all_commits=true)
 
 
 ## 💻 Brief Description
