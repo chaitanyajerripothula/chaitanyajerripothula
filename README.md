@@ -21,7 +21,7 @@ My development skills include implementing user interfaces that adhere to W3C st
 
 ![Total Contributions](https://github.com/chaitanyajerripothula/chaitanyajerripothula/workflows/Count%20Contributions/badge.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajerripothula&theme=radical&count_private=true)](https://github.com/chaitanyajerripothula/github-readme-stats&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajerripothula&theme=radical&count_private=true&layout=compact)](https://github.com/chaitanyajerripothula/github-readme-stats&theme=radical&count_private=true)
 
 ##Below are some interactive animations that draw attention:
 
