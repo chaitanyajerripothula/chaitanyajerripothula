@@ -2,8 +2,9 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula&show_icons=true&theme=radical)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt&show_icons=true&theme=radical)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula)](https://github.com/chaitanyajerripothula/github-readme-stats)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt)](https://github.com/cjerripothula-wwt/github-readme-stats)
+
 
 ## 💻 Brief Description
 
