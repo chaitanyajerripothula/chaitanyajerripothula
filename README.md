@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula?from=2022-12-01)](https://github.com/chaitanyajerripothula/github-readme-stats)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula)](https://github.com/chaitanyajerripothula/github-readme-stats)
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt)](https://github.com/cjerripothula-wwt/github-readme-stats)
 
 
