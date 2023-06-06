@@ -5,6 +5,9 @@
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyajerripothula&show_icons=true&theme=radical&include_all_commits=true)
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjerripothula-wwt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+![Total Contributions](https://github.comchaitanyajerripothula/your-repo/workflows/Count%20Contributions/badge.svg)
+
+
 ## 💻 Brief Description
 
 As an experienced Full Stack Developer with 7+ years of professional experience, I possess a comprehensive understanding of various website design tools such as HTML5, CSS3, SASS/LESS CSS, JavaScript, JQuery, React Native, Angular 2+ Framework, Bootstrap, and Angular Material on Windows platforms. I am also proficient in integrating and implementing wrapper classes for third-party libraries such as datatables, mapbox, am charts, excel.js, pdf.js.
