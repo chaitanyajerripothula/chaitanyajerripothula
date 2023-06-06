@@ -1,0 +1,25 @@
+name: Count Contributions
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  count-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Count Contributions
+        run: node github-contribution.js
